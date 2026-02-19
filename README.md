@@ -1,6 +1,3 @@
-# 💫 About Me:
-About Me / Intro<br><br>Name: Krish<br>Tagline: My code works. Don't ask how (already your bio, perfect)<br>Location: London, United Kingdom<br><br>Currently Working On<br><br>Nutri-website (Next.js / TypeScript)<br>Vesper (Android / Kotlin)<br>Beesign — UI/UX freelance projects<br><br>Currently Learning<br><br>AI/ML (you have ai-traffic-rl in Python, so Reinforcement Learning fits)<br><br>Tech Stack to select:<br><br>Languages: TypeScript, Python, Kotlin, JavaScript, Java, C#<br>Frontend: React, Next.js, TailwindCSS<br>Backend: Node.js / your preferred stack<br>Tools: Git, GitHub<br><br>GitHub Stats to enable:<br><br>GitHub Stats Card ✅<br>Top Languages Card ✅<br>Streak Stats ✅ (509 contributions in the last year is solid)<br>Trophies ✅ (you already have achievements showing)
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishsawhney0502@gmail.com) 
